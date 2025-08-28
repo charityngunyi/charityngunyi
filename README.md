@@ -1,10 +1,35 @@
-- 👋 Hi, I’m @charityngunyi
-- 👀 I’m interested in software development, Fullstack development
-- 🌱 I’m currently learning front end development using Angular, backend using python with django
-- 💞️ I’m looking to collaborate on Django development, Angular, Golang, APIS, backend development, frontend development, node.js, javascript, Linux
-- 📫 How to reach me at ngunyicharity@gmail.com
+# 👋 Hi, I’m Charity Ngunyi (@charityngunyi)
 
-<!---
-charityngunyi/charityngunyi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## 🚀 About Me
+I’m a passionate **software developer** who loves building impactful and user-friendly applications.  
+With a strong background in **Fullstack development**, I enjoy combining creative frontends with powerful backends.  
+
+## 👀 Interests
+- Fullstack development  
+- Web applications with modern frameworks  
+- Databases & cloud deployment (AWS, Azure, Linux)  
+- APIs and system integration  
+- Open-source collaboration  
+
+## 🌱 Currently Top skills
+- **Frontend:** Angular, Next.js  
+- **Backend:** Django, FastAPI, Node.js  
+- **Styling:** Tailwind CSS, PrimeNG, Angular Material  
+- **Databases:** PostgreSQL, MongoDB, MySQL  
+- **Other:** Cloud computing (AWS, Azure), Docker, Linux administration  
+
+## 💞️ Collaboration
+I’m open to collaborating on:  
+- Django / FastAPI backend projects  
+- Angular / Next.js frontends  
+- Fullstack applications with **MEAN** / **MERN** or **Django + Angular/Next.js**  
+- APIs, data pipelines, and microservices  
+- Open-source projects that make a real-world impact  
+
+## 📫 Contact
+- Email: **ngunyicharity@gmail.com**  
+- GitHub: [@charityngunyi](https://github.com/charityngunyi)
+
+---
+
+✨ *“Passionate about empowering writers and researchers with high-quality insights, tips, and resources — while adding flavors to coding like spices to food.”*  
